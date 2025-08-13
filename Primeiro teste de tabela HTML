@@ -1,0 +1,48 @@
+<!DOCTYPE html> 
+
+<html>
+
+<head>
+<title> Teste de tabela </title>
+</head>
+<body>
+
+<title> Primeiro teste de tabela </title>
+
+
+<table>
+<tr> 
+
+<th> Comida </th>
+<th> Preço </th>
+<th> Complemento </th>
+
+</tr>
+
+<tr>
+
+<td> Pastel </td>
+<td> R$ 7,00 </td>
+<td> Salada </td>
+
+</tr>
+
+<tr>
+
+<td> Coxinha </td>
+<td> R$ 6,00 </td>
+<td> Maionese </td>
+
+</tr>
+
+<tr>
+
+<td> Pizza </td>
+<td> R$ 9,00 </td>
+<td> Molho </td>
+
+</tr>
+
+</table>
+
+</body>
